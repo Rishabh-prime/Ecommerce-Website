@@ -610,18 +610,18 @@ footer a:hover{
         font-size: 32px0;
     }
     h1{
-        font-size: 38px;
+        font-size: 33px;
     }
     #hero{
         padding: 0 20px;
-        background-position: 55%;
+        background-position: 60%;
     }
 
     .section-p1{
         padding: 20px;
     }
 #features{
-    justify-content: space-between;
+    justify-content: center;
 }
 
     #features .feature-box{
